@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="600dp"
+    android:background="@color/background_color"
+    android:backgroundTintMode="screen"
+    android:orientation="vertical">
+
+    <android.support.v4.widget.CircleImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_margin="96dp"
+        android:gravity="center"
+        android:src="@drawable/ainsol" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:gravity="bottom"
+        android:text="TextView"
+        android:textAlignment="viewEnd"
+        android:textAllCaps="true"
+        android:textSize="20sp"
+        android:layout_margin="80dp"
+        android:typeface="sans"
+        android:visibility="visible"
+        tools:text="Powered by Ainsol" />
+
+
+</LinearLayout>

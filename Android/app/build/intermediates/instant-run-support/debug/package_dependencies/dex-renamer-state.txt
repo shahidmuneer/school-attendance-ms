@@ -1,0 +1,13 @@
+#Sat Mar 24 14:47:47 PKT 2018
+renamed.3=classes.dex
+renamed.2=classes2.dex
+renamed.1=classes4.dex
+renamed.0=classes3.dex
+base.3=C\:\\Users\\Umer\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_eddb476c850a1ac0d5771d204bfa4dc7a4da1a83
+base.2=C\:\\Users\\Umer\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f2c02d397cd7143a60aa9a249eefbf14a628b196
+base.1=C\:\\Users\\Umer\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_881cba0e0f99dd9ff8af4330db386a89f92bc07d
+base.0=C\:\\Users\\Umer\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_c86bd77fdab674fd30e457b40bc018e1554a7599
+file.3=C\:\\Users\\Umer\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_eddb476c850a1ac0d5771d204bfa4dc7a4da1a83\\classes.dex
+file.2=C\:\\Users\\Umer\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f2c02d397cd7143a60aa9a249eefbf14a628b196\\classes.dex
+file.1=C\:\\Users\\Umer\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.1_881cba0e0f99dd9ff8af4330db386a89f92bc07d\\classes.dex
+file.0=C\:\\Users\\Umer\\Downloads\\Compressed\\Login_SignUp_ScreenDesgin_Demo\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.1_c86bd77fdab674fd30e457b40bc018e1554a7599\\classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 19 19:42:25 PKT 2018
+0.baseType=DIRECTORY
+0.base=E\:\\Ainsol\\school-attendance-ms\\Login_SignUp_ScreenDesgin_Demo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

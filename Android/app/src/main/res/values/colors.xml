@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ee443fd1ba67ebe900dc4a0d15a5aba7d575b00afd72418954df7eab10e9eb1
-size 214
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_color">#009688</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+
+</resources>
